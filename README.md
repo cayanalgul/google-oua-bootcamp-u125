@@ -1,24 +1,24 @@
 # google-oua-bootcamp-u125
 
-#Takım İsmi
+# Takım İsmi
 Takım Unity 125
 
-#Ürünler ile ilgili bilgiler
+# Ürünler ile ilgili bilgiler
 
-##Takım Elemanları
+## Takım Elemanları
 Aslı Türkoğlu: Scrum Master / Developer
 Çayan Algül: Product Owner / Developer
 Mehmet Hancıoğlu: Developer
 Buket Girginç: Developer
 Gülnihal Arslan: Aktif olmayan üye
 
-##Ürün İsmi
+## Ürün İsmi
 For the Adventure
 
-##Ürün Açıklaması
+## Ürün Açıklaması
 For the Adventure, 2D platform oyunu olarak karşımıza çıkan heyecan verici bir maceradır. Oyunda, cesur bir karakterin kuşlarla dolu bir dünyada mücadelesine tanık olacaksınız. Kendi yolunuzu yaratırken, kuşlarla olan eşsiz savaş yeteneklerinizi sergileyin ve adrenalin dolu aksiyon dolu seviyelerde ilerleyin. Oyunculara tek vuruşla sınırlı kalmayan birden fazla saldırı kombinasyonu sunar. Oyuncuların düşmanlara karşı çeşitli saldırılar gerçekleştirmesine olanak tanıyan bir dövüş sistemiyle eşsiz bir savaş deneyimi sunar.
 
-##Ürün Özellikleri
+## Ürün Özellikleri
 
 -etkileyici bir görsel atmosfer sunar
 -Zorlu Düşmanlar ve Yapay Zeka
@@ -27,14 +27,14 @@ For the Adventure, 2D platform oyunu olarak karşımıza çıkan heyecan verici 
 -Oyuncuların sağlık seviyelerini takip edebilme
 -Müzik ve Ses Efektleri
 
-#Hedef Kitle
+# Hedef Kitle
 13+ yaş kullanıcılar
 Platformer seven kullanıcılar
 
-#Product Backlog URL
+# Product Backlog URL
 [JIRA Backlog Board](https://sanctusgame.atlassian.net/jira/software/projects/SAN/boards/3/backlog)
 
-#Sprint 1
+# Sprint 1
 
 **Sprint Notları:** Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır
 
@@ -53,13 +53,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken lis
 **Ürün durumu**
 Henüz bir uygulama yapılmadı. Oyuna genel hatlarıyla karar verilip üzerine düşünüldü.
 
-##Sprint Review:
+## Sprint Review:
 
 Oyunun olay örgüsü, konsepti belirlenmiştir.
 
 Oyunu yapabilmek için ön hazırlık yapılmıştır. Araştırmalar, program indirme vs gibi.
 
-##Sprint Retrospective:
+## Sprint Retrospective:
 
 Oyunu yapabilmek için daha belirgin şekilde küçük görevler belirleyip daha eşit bir görev dağılımı yapılacaktır.
 Konuşma ve dosya gibi önemli bağlantıları kaçırmamak adına Discord üzerinden daha sistematik şekilde takım içi iletişim kurulacaktır.
