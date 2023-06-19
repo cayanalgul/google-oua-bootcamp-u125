@@ -49,7 +49,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken lis
 **Daily Scrum:** Daily Scrum toplantılarımız Zoom platformu üzerinden oldu ancak herhangibir ekran görüntüsü alınmadığı için bir görsel paylaşamıyorum. Sonraki dailylerimiz Discord üzerinden olacaktır.
 
 **Sprint Board**
-
+![alt text](https://github.com/cayanalgul/google-oua-bootcamp-u125/blob/main/ProjectManagement/Sprint1Documents/image.jpg)
 **Ürün durumu**
 Henüz bir uygulama yapılmadı. Oyuna genel hatlarıyla karar verilip üzerine düşünüldü.
 
