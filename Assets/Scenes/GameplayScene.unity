@@ -288,7 +288,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.33447555, y: 0.28088728, z: -10.01586}
+  m_LocalPosition: {x: -0.33447555, y: 0.28088728, z: -5.67}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -421,6 +421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 752753228}
   - component: {fileID: 752753229}
+  - component: {fileID: 752753230}
   m_Layer: 0
   m_Name: BG2
   m_TagString: Untagged
@@ -436,7 +437,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 752753227}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.71}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -495,6 +496,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &752753230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 752753227}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08fad1546d73aa14a9f19ba4c0bfe3ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cam: {fileID: 519420031}
+  fallowTarget: {fileID: 1304084005}
 --- !u!1 &873327196
 GameObject:
   m_ObjectHideFlags: 0
@@ -505,6 +520,7 @@ GameObject:
   m_Component:
   - component: {fileID: 873327197}
   - component: {fileID: 873327198}
+  - component: {fileID: 873327199}
   m_Layer: 0
   m_Name: BG1
   m_TagString: Untagged
@@ -520,7 +536,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 873327196}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -579,6 +595,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &873327199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 873327196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08fad1546d73aa14a9f19ba4c0bfe3ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cam: {fileID: 519420031}
+  fallowTarget: {fileID: 1304084005}
 --- !u!1 &978275474
 GameObject:
   m_ObjectHideFlags: 0
@@ -656,7 +686,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 978275474}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.33447555, y: 0.28088728, z: -10.01586}
+  m_LocalPosition: {x: -0.33447555, y: 0.28088728, z: -5.67}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -767,6 +797,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1887638194}
   - component: {fileID: 1887638195}
+  - component: {fileID: 1887638196}
   m_Layer: 0
   m_Name: BG3
   m_TagString: Untagged
@@ -782,7 +813,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1887638193}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.39}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -841,6 +872,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1887638196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1887638193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08fad1546d73aa14a9f19ba4c0bfe3ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cam: {fileID: 519420031}
+  fallowTarget: {fileID: 1304084005}
 --- !u!1001 &1870069448941261129
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -871,7 +916,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3834256702533175759, guid: d8f964b45bdf8264b9afa9cc83cff761, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.015859252
+      value: 4.33
       objectReference: {fileID: 0}
     - target: {fileID: 3834256702533175759, guid: d8f964b45bdf8264b9afa9cc83cff761, type: 3}
       propertyPath: m_LocalRotation.w
