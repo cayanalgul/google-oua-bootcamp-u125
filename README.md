@@ -74,6 +74,7 @@ Konuşma ve dosya gibi önemli bağlantıları kaçırmamak adına Discord üzer
 **Daily Scrum:** Dailylerimiz Google Meet ve whatsapp üzerinden oldu. 
 
 **Sprint Board**
+<img width="1395" alt="sprintboard2" src="https://github.com/cayanalgul/google-oua-bootcamp-u125/assets/79975486/abd091ce-4b17-4dca-a103-d9f9d9908b7c">
 
 **Ürün durumu**
 
