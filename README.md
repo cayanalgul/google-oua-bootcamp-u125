@@ -66,9 +66,32 @@ Oyunu yapabilmek için ön hazırlık yapılmıştır. Araştırmalar, program i
 Oyunu yapabilmek için daha belirgin şekilde küçük görevler belirleyip daha eşit bir görev dağılımı yapılacaktır.
 Konuşma ve dosya gibi önemli bağlantıları kaçırmamak adına Discord üzerinden daha sistematik şekilde takım içi iletişim kurulacaktır.
 
+# Sprint 2
 
+**Sprint Notları:** Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır
+**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan. 95 puan tamamlandı.
 
+**Daily Scrum:** Dailylerimiz Google Meet ve whatsapp üzerinden oldu. 
 
+**Sprint Board**
+
+**Ürün durumu**
+* asset seçimi grupça yapıldı
+* karaktere hareketleri için animasyonlar eklendi
+* parallax efekt kullanıldı
+* arka plan hazırlandı
+
+## Sprint Review:
+* oyunun arka planı belirlendi
+* oyunun assetleri belirlendi
+* Ground tileset hazırlama görevi henüz yapılmadı.
+
+## Sprint Retrospective:
+
+* ekip belli bir iletişim tarzını benimsedi ve düzeni oluşmaya başladı.
+* Oyuna hala ground ve enemy eklenmedi bir sonraki sprintte bunlar öncelikli olarak yapılmalı
+
+# Sprint 2
 
 
 
