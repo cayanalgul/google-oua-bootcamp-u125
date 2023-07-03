@@ -99,7 +99,7 @@ Konuşma ve dosya gibi önemli bağlantıları kaçırmamak adına Discord üzer
 * ekip belli bir iletişim tarzını benimsedi ve düzeni oluşmaya başladı.
 * Oyuna hala ground ve enemy eklenmedi bir sonraki sprintte bunlar öncelikli olarak yapılmalı
 
-# Sprint 2
+# Sprint 3
 
 
 
