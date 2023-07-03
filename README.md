@@ -76,6 +76,11 @@ Konuşma ve dosya gibi önemli bağlantıları kaçırmamak adına Discord üzer
 **Sprint Board**
 
 **Ürün durumu**
+
+![alt text](https://github.com/cayanalgul/google-oua-bootcamp-u125/blob/main/ProjectManagement/Sprint2Documents/sprint2Image.png
+)
+
+
 * asset seçimi grupça yapıldı
 * karaktere hareketleri için animasyonlar eklendi
 * parallax efekt kullanıldı
