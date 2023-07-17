@@ -101,6 +101,27 @@ Konuşma ve dosya gibi önemli bağlantıları kaçırmamak adına Discord üzer
 
 # Sprint 3
 
+**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan. 85 puan tamamlandı.
+
+**Daily Scrum:** Dailylerimiz Google Meet ve whatsapp üzerinden oldu. 
+
+**Sprint Board**
+
+**Ürün durumu**
+
+## Sprint Review:
+* Ground eklendi.
+* Enemy eklendi.
+* Enemynin animasyonları ve hareketleri yazıldı, ayarlandı.
+* Henüz oyuna müzik eklenmedi.
+
+## Sprint Retrospective:
+
+* Sprinte görev eklerken hatalarla karşılaştığımızda yaşayabileceğimiz zaman kaybına dikkat edilmeli
+* Tahmin ettiğimiz gibi ilerleyememek sprintteki bazı görevlerin aksamasına sebep oldu.
+
+
+
 
 
 
