@@ -6,11 +6,11 @@ Takım Unity 125
 # Ürünler ile ilgili bilgiler
 
 ## Takım Elemanları
-Aslı Türkoğlu: Scrum Master / Developer
-Çayan Algül: Product Owner / Developer
-Mehmet Hancıoğlu: Developer
-Buket Girginç: Developer
-Gülnihal Arslan: Aktif olmayan üye
+* Aslı Türkoğlu: Scrum Master / Developer
+* Çayan Algül: Product Owner / Developer
+* Mehmet Hancıoğlu: Developer
+* Buket Girginç: Developer
+* Gülnihal Arslan: Aktif olmayan üye
 
 ## Ürün İsmi
 For the Adventure
@@ -50,6 +50,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Jira'da gözüken lis
 
 **Sprint Board**
 
+![alt text](https://github.com/cayanalgul/google-oua-bootcamp-u125/blob/main/ProjectManagement/Sprint1Documents/image.jpg)
+
 **Ürün durumu**
 Henüz bir uygulama yapılmadı. Oyuna genel hatlarıyla karar verilip üzerine düşünüldü.
 
@@ -64,7 +66,64 @@ Oyunu yapabilmek için ön hazırlık yapılmıştır. Araştırmalar, program i
 Oyunu yapabilmek için daha belirgin şekilde küçük görevler belirleyip daha eşit bir görev dağılımı yapılacaktır.
 Konuşma ve dosya gibi önemli bağlantıları kaçırmamak adına Discord üzerinden daha sistematik şekilde takım içi iletişim kurulacaktır.
 
+# Sprint 2
 
+**Sprint Notları:** Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır
+**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan. 95 puan tamamlandı.
+
+**Daily Scrum:** Dailylerimiz Google Meet ve whatsapp üzerinden oldu. 
+![WhatsApp Image 2023-07-03 at 08 37 11](https://github.com/cayanalgul/google-oua-bootcamp-u125/assets/79975486/3653b0fa-37cb-485d-8ea5-324cd3d85c24)
+
+
+**Sprint Board**
+<img width="1395" alt="sprintboard2" src="https://github.com/cayanalgul/google-oua-bootcamp-u125/assets/79975486/abd091ce-4b17-4dca-a103-d9f9d9908b7c">
+
+**Ürün durumu**
+
+![alt text](https://github.com/cayanalgul/google-oua-bootcamp-u125/blob/main/ProjectManagement/Sprint2Documents/sprint2Image.png
+)
+
+
+* asset seçimi grupça yapıldı
+* karaktere hareketleri için animasyonlar eklendi
+* parallax efekt kullanıldı
+* arka plan hazırlandı
+
+## Sprint Review:
+* oyunun arka planı belirlendi
+* oyunun assetleri belirlendi
+* Ground tileset hazırlama görevi henüz yapılmadı.
+
+## Sprint Retrospective:
+
+* ekip belli bir iletişim tarzını benimsedi ve düzeni oluşmaya başladı.
+* Oyuna hala ground ve enemy eklenmedi bir sonraki sprintte bunlar öncelikli olarak yapılmalı
+
+# Sprint 3
+
+**Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan. 85 puan tamamlandı.
+
+**Daily Scrum:** Dailylerimiz Google Meet ve whatsapp üzerinden oldu. 
+![WhatsApp Image 2023-07-17 at 08 32 27](https://github.com/cayanalgul/google-oua-bootcamp-u125/assets/79975486/b316425c-3634-4629-9737-1e8c44fce70c)
+![WhatsApp Image 2023-07-17 at 08 32 30](https://github.com/cayanalgul/google-oua-bootcamp-u125/assets/79975486/0815819f-c7fa-4b11-9c63-c9ddbbe15df1)
+
+**Sprint Board**
+<img width="1395" alt="Ekran Resmi 2023-07-17 08 45 13" src="https://github.com/cayanalgul/google-oua-bootcamp-u125/assets/79975486/ebf78cca-319b-4645-901b-569e41690e20">
+
+**Ürün durumu**
+
+![alt text](https://github.com/cayanalgul/google-oua-bootcamp-u125/blob/main/ProjectManagement/Sprint3Documents/Sprint3Image.png)
+
+## Sprint Review:
+* Ground eklendi.
+* Enemy eklendi.
+* Enemynin animasyonları ve hareketleri yazıldı, ayarlandı.
+* Henüz oyuna müzik eklenmedi.
+
+## Sprint Retrospective:
+
+* Sprinte görev eklerken hatalarla karşılaştığımızda yaşayabileceğimiz zaman kaybına dikkat edilmeli
+* Tahmin ettiğimiz gibi ilerleyememek sprintteki bazı görevlerin aksamasına sebep oldu.
 
 
 
