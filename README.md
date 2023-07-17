@@ -109,6 +109,8 @@ Konuşma ve dosya gibi önemli bağlantıları kaçırmamak adına Discord üzer
 
 **Ürün durumu**
 
+![alt text](https://github.com/cayanalgul/google-oua-bootcamp-u125/blob/main/ProjectManagement/Sprint3Documents/Sprint3Image.png)
+
 ## Sprint Review:
 * Ground eklendi.
 * Enemy eklendi.
