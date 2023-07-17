@@ -104,8 +104,11 @@ Konuşma ve dosya gibi önemli bağlantıları kaçırmamak adına Discord üzer
 **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan. 85 puan tamamlandı.
 
 **Daily Scrum:** Dailylerimiz Google Meet ve whatsapp üzerinden oldu. 
+![WhatsApp Image 2023-07-17 at 08 32 27](https://github.com/cayanalgul/google-oua-bootcamp-u125/assets/79975486/b316425c-3634-4629-9737-1e8c44fce70c)
+![WhatsApp Image 2023-07-17 at 08 32 30](https://github.com/cayanalgul/google-oua-bootcamp-u125/assets/79975486/0815819f-c7fa-4b11-9c63-c9ddbbe15df1)
 
 **Sprint Board**
+<img width="1395" alt="Ekran Resmi 2023-07-17 08 45 13" src="https://github.com/cayanalgul/google-oua-bootcamp-u125/assets/79975486/ebf78cca-319b-4645-901b-569e41690e20">
 
 **Ürün durumu**
 
