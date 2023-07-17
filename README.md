@@ -6,11 +6,11 @@ Takım Unity 125
 # Ürünler ile ilgili bilgiler
 
 ## Takım Elemanları
-Aslı Türkoğlu: Scrum Master / Developer
-Çayan Algül: Product Owner / Developer
-Mehmet Hancıoğlu: Developer
-Buket Girginç: Developer
-Gülnihal Arslan: Aktif olmayan üye
+* Aslı Türkoğlu: Scrum Master / Developer
+* Çayan Algül: Product Owner / Developer
+* Mehmet Hancıoğlu: Developer
+* Buket Girginç: Developer
+* Gülnihal Arslan: Aktif olmayan üye
 
 ## Ürün İsmi
 For the Adventure
