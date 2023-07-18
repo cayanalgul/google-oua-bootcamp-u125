@@ -35,7 +35,6 @@ public class PlayerController : MonoBehaviour
                     {
                         return airWalkSpeed;
                     }
-
                 }
                 else
                 {
@@ -101,6 +100,11 @@ public class PlayerController : MonoBehaviour
         {
             return animator.GetBool("canMove");
         } }
+
+    public bool IsAlive
+    {
+        get { return animator.GetBool("isAlive"); }
+    }
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -128,10 +132,16 @@ public class PlayerController : MonoBehaviour
     public void OnMove(InputAction.CallbackContext context) 
     { 
         moveInput = context.ReadValue<Vector2>();
+        if(IsAlive)
+        {
+            IsMoving = moveInput != Vector2.zero;
 
-        IsMoving = moveInput != Vector2.zero;
-
-        SetFacingDirection(moveInput);
+            SetFacingDirection(moveInput);
+        }
+        else
+        {
+            IsMoving = false;
+        }
     }
 
     private void SetFacingDirection(Vector2 moveInput)
